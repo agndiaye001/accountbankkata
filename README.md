@@ -1,5 +1,3 @@
-# accountbankkata
-
 
 # Account Bank Kata
 
